@@ -1,0 +1,22 @@
+.first{
+    border: 1px solid blue;
+    display: inline-block;
+    position: absolute;
+    text-align: center;
+    width: 80%;
+    font-size: 30px;
+    padding: 20px 20px;
+    background: linear-gradient(145deg,rgb(226, 19, 88),rgb(19, 41, 112));
+    border-radius: 8px;
+    
+}
+.first p{
+    font-size: 20px;
+    text-align: left;
+    line-height: 30px;
+}
+*{
+    margin: 0;
+    padding: 0;
+    font-family:  Verdana, sans-serif;
+}
